@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "app-gen-qrcode",
-    "slug": "app-gen-qrcode",
+    "name": "app-gen-list-qrcode",
+    "slug": "app-gen-list-qrcode",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

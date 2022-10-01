@@ -1,5 +1,5 @@
 {
-  "name": "app-gen-qrcode",
+  "name": "app-gen-list-qrcode",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -12,7 +12,9 @@
     "expo": "~46.0.13",
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
-    "react-native": "0.69.6"
+    "react-native": "0.69.6",
+    "react-native-qrcode-svg": "^6.1.2",
+    "react-native-svg": "12.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
